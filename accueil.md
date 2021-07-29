@@ -1,7 +1,8 @@
 ---
-title: Bienvenue à Dynamium
 lang: fr
 layout: home
 ---
 
-Bienvenue au laboratoire des systèmes dynamiques de l'Université de Moncton! Notre laboratoire de recherche est spécialisé dans les manipulateurs robotiques et l'interaction physique humain-robot. Nous utiliserons ce site Web pour présenter nos démos et nos résultats et pour simplifier le transfert de connaissances en partageant quelques trucs et astuces généraux.
+Bienvenue! Je suis un professeur en génie mécanique à l'Université de Moncton. J'enseigne principalement la mécatronique et je fais de la recherche en robotique. Ce site Web présente mes projets de recherche antérieurs et futurs.
+
+Merci de votre intérêt!
