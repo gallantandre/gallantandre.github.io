@@ -19,9 +19,9 @@ layout: default
   {% endif %}
   
   {% if site.paginate %}
-    {% assign posts = paginator.posts | where: "content_type", "news" | where:"lang", lang %}
+    {% assign posts = paginator.posts | where: "content_type", "project" | where:"lang", lang %}
   {% else %}
-    {% assign posts = site.posts | where: "content_type", "news" | where:"lang", lang %}
+    {% assign posts = site.posts | where: "content_type", "project" | where:"lang", lang %}
   {% endif %}
 
   {%- if posts.size > 0 -%}
