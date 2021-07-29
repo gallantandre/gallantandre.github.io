@@ -1,8 +1,9 @@
 ---
-title: Welcome to Dynamium
 lang: en
 layout: home
 ---
 
-Welcome to Université de Moncton's Dynamic Systems Lab! Our research laboratory is specialized in robotic manipulators and physical human-robot interaction. We will use this website to showcase our demos and results and to simplify the knowledge transfer by sharing some general tips & tricks.
+Welcome to my site! I am a professor of mechanical engineering at Université de Moncton. I mainly teach mechatronics and do research in Robotics. This site briefly my past and current research projects.
+
+Thanks for your interest!
 
