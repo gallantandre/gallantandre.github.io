@@ -10,9 +10,9 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     {%- if lang == 'en' -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}"><img src={{ "assets/images/logo.svg" | relative_url }} alt={{ site.title }} style="width: 300px;"></a>
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">André Gallant</a>
     {%- else -%}
-    <a class="site-title" rel="author" href="{{ "/accueil" | relative_url }}"><img src={{ "assets/images/logo.svg" | relative_url }} alt={{ site.title }} style="width: 300px;"></a>
+    <a class="site-title" rel="author" href="{{ "/accueil" | relative_url }}">André Gallant</a>
     {%- endif -%}
 
     <nav class="site-nav">
