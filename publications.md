@@ -1,4 +1,5 @@
 ---
+title: Publications
 layout: page
 lang: en
 content_type: page
