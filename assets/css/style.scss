@@ -7,6 +7,16 @@
 .site-header {
     padding-top: 0.3rem;
     padding-bottom: 0.3rem;
-    background-color: black;
-    color: white;
+    background-color: #333;
+    color: #bbb;
 }
+
+.site-title, .site-title:visited {
+    color: #ddd;
+}
+.site-title:hover {
+    color: #ccc;
+}
+
+
+
