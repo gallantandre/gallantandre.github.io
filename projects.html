@@ -8,7 +8,7 @@ title: Projects
 
 <h2 class="post-list-heading">{{ page.title }}</h2>
 <ul class="post-list">
-  {% for post in site.pages | where "content_type", "page" | where "lang", "en" %}
+  {% for post in site.posts | where content_type, "project" | where lang, "en" %}
     <li>
       <h3>
         <a class="post-link" href="{{ post.url | relative_url }}">
