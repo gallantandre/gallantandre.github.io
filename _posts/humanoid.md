@@ -1,0 +1,17 @@
+---
+title: Humanoïd control
+lang: en
+content_type: project
+---
+
+Now this was a fun project! I worked for about a year and a half at a research lab in Poitiers, France on a small-ish 24 joint humanoid robot. This one:
+
+
+
+
+
+## Expertise developed
+- Real-time control
+- PLC programming
+- C programming
+- CANopen communication protocol
