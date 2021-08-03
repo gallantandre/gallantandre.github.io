@@ -1,5 +1,5 @@
 ---
-title: Command d'un robot humanoïde
+title: Commande d'un robot humanoïde
 lang: fr
 content_type: project
 ---
