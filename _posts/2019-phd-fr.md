@@ -14,7 +14,7 @@ Dans la deuxième grande partie de mon doctorat, j'ai exploré les méthodes d'u
 
 Au cours de mon doctorat, j'ai également eu l'opportunité d'enseigner le cours Dynamique des corps rigides au premier cycle. Avec 160 étudiants, c'était un exercice d'essai au feu que j'ai beaucoup apprécié et qui a confirmé ma passion pour l'enseignement.
 
-Enfin, j'ai encadré un stagiaire de premier cycle pour explorer quelques pistes différentes que je n'aurais pas eu le temps de d'explorer par moi-même. Ce projet, sur deux étés et à temps partiel pendant un an, m'a permis d'affiner mes compétences en gestion de projet et de structurer mon doctorat un peu mieux.
+Enfin, j'ai encadré un stagiaire de premier cycle pour explorer quelques pistes que je n'aurais pas eu le temps de d'explorer par moi-même. Ce projet, sur deux étés et à temps partiel pendant un an, m'a permis d'affiner mes compétences en gestion de projet et de structurer mon doctorat un peu mieux.
 
 
 
